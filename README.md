@@ -7,4 +7,4 @@
 - Performed data manipulation and Importing & Cleaning Data
 - 
 
-View my [project]() here!
+View my [project](Analyze-International-Debt-Statistics/Analyze International Debt Statistics.ipynb) here!
