@@ -22,11 +22,12 @@ View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/
 - Data Manipulation
 
 **🔑 Key Learnings**
-- Using aggregate functions such as `SUM()`, `MAX()`, `COUNT()`
-- Filter techniques such as `WHERE`, `GROUP BY`
-- Sorting using `ORDER BY`
-- Limit results using `LIMIT` clause
+- Using aggregate functions such as `AVG()`, `COUNT()`
+- Filter techniques such as `WHERE`, `HAVING`, `GROUP BY`
+- Rounding aggregated results using `ROUND()`
+- Inner `JOIN` and `LEFT JOIN`
+- Compare tables using `EXCEPT` and `INTERSECT`
 - Subquery in `WHERE` clause
 
 
-View my [project]() soon!
+View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/When%20was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb) here!
