@@ -31,3 +31,16 @@ View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/
 
 
 View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/When%20was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb) here!
+
+### 3. Analyzing American Baby Name Trends
+
+**✅ Topics**
+- Data Manipulation
+
+**🔑 Key Learnings**
+- 🤔
+- 🤓
+- 👨🏻‍💻
+
+
+Coming my [project]() soon!
