@@ -38,9 +38,11 @@ View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/
 - Data Manipulation
 
 **🔑 Key Learnings**
-- 🤔
-- 🤓
-- 👨🏻‍💻
+- Classifying and categorising results using `CASE WHEN`
+- Ranking data using `RANK()` window function
+- Filter string such as `LIKE`
+- Defining cumulative result using `SUM() OVER()` window function 
+- Subquery and Common Table Expression (CTE)
 
 
-Coming my [project]() soon!
+View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends/Analyzing%20American%20Baby%20Name%20Trends.ipynb) here!
