@@ -18,6 +18,17 @@
 
 View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Unicorn%20Companies/Analyzing%20Unicorn%20Companies.sql) here!
 
+### 2. Analyzing Motorcycle Part Sales
+
+**✅ Topics**
+- Data Manipulation
+- Reporting
+
+**🔑 Key Learnings**
+
+View my [project]() soon!
+
+
 ***
 
 ## 📊 Guided Projects using SQL
