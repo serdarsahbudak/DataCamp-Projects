@@ -8,10 +8,15 @@
 - Case Studies
 
 **🔑 Key Learnings**
+- Subquery and Common Table Expression (CTE)
+- Using aggregate functions such as `AVG()`, `COUNT()`
+- Filter techniques such as `WHERE`, `GROUP BY`
+- Rounding aggregated results using `ROUND()`
+- Ranking data using `DENSE_RANK()` window function
+- Extracting date using `EXTRACT()`
+- Defining cumulative result using `SUM() OVER()` window function 
 
-
-
-View my [project]() soon!
+View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Unicorn%20Companies/Analyzing%20Unicorn%20Companies.sql) here!
 
 ***
 
