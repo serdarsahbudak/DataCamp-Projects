@@ -1,4 +1,20 @@
 # DataCamp
+## 📊 Unguided Projects using SQL
+
+### 1. Analyze Unicorn Companies
+
+**✅ Topics**
+- Importing & Cleaning Data
+- Case Studies
+
+**🔑 Key Learnings**
+
+
+
+View my [project]() soon!
+
+***
+
 ## 📊 Guided Projects using SQL
 
 ### 1. Analyze International Debt Statistics
