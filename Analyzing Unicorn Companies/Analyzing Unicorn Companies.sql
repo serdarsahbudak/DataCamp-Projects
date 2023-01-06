@@ -49,7 +49,7 @@ ranking_cte AS(
         SELECT *, SUM(num_unicorns) OVER(PARTITION BY industry) as sum_unicorns
         FROM top_industries
         GROUP BY industry, year, num_unicorns, average_valuation_billions) sub 
-        ORDER BY ranking, year desc
+    ORDER BY ranking, year desc
 )
 
 SELECT industry, year, num_unicorns, average_valuation_billions
