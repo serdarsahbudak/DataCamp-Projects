@@ -25,6 +25,9 @@ View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/
 - Reporting
 
 **🔑 Key Learnings**
+- Common Table Expression (CTE)
+- Filter techniques such as `WHERE`, `GROUP BY`
+- Extract and display month name instead of number using `CASE EXTRACT() WHEN`
 
 View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales/Analyzing%20Motorcycle%20Part%20Sales.ipynb) here!
 
