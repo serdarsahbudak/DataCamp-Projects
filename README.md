@@ -26,7 +26,7 @@ View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/
 
 **🔑 Key Learnings**
 
-View my [project]() soon!
+View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales/Analyzing%20Motorcycle%20Part%20Sales.ipynb) here!
 
 
 ***
