@@ -16,7 +16,7 @@
 - Extracting date using `EXTRACT()`
 - Defining cumulative result using `SUM() OVER()` window function 
 
-View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Unicorn%20Companies/Analyzing%20Unicorn%20Companies.sql) here!
+View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Unicorn%20Companies/Analyze%20Unicorn%20Companies.ipynb) here!
 
 ### 2. Analyzing Motorcycle Part Sales
 
