@@ -31,6 +31,18 @@ View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/
 
 View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales/Analyzing%20Motorcycle%20Part%20Sales.ipynb) here!
 
+### 3. Analyzing Student's Mental Health
+
+**✅ Topics**
+- Data Manipulation
+- Case Studies
+
+**🔑 Key Learnings**
+- Filter techniques such as `WHERE`, `GROUP BY`
+- Rounding aggregated results using `ROUND()`
+
+View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Student's%20Mental%20Health/Analyzing%20Student's%20Mental%20Health.ipynb) here!
+
 
 ***
 
