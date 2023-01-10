@@ -44,6 +44,15 @@ View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/
 View my [project](https://github.com/serdarsahbudak/DataCamp-Projects/blob/main/Analyzing%20Student's%20Mental%20Health/Analyzing%20Student's%20Mental%20Health.ipynb) here!
 
 
+### 4. Analyzing Industry Carbon Emissions
+
+**✅ Topics**
+- Data Manipulation
+
+**🔑 Key Learnings**
+
+View my [project]() soon!
+
 ***
 
 ## 📊 Guided Projects using SQL
